@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://colin.studio</id>
     <title>记录即反抗。</title>
-    <updated>2021-07-08T18:07:54.129Z</updated>
+    <updated>2021-07-08T18:09:44.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://colin.studio"/>
     <link rel="self" href="https://colin.studio/atom.xml"/>
@@ -10,19 +10,6 @@
     <logo>https://colin.studio/images/avatar.png</logo>
     <icon>https://colin.studio/favicon.ico</icon>
     <rights>All rights reserved 2021, 记录即反抗。</rights>
-    <entry>
-        <title type="html"><![CDATA[Maybe We Could]]></title>
-        <id>https://colin.studio/post/maybe-we-could/</id>
-        <link href="https://colin.studio/post/maybe-we-could/">
-        </link>
-        <updated>2021-07-08T18:06:42.000Z</updated>
-        <summary type="html"><![CDATA[<p><em>fake it till we make it.</em> ​​​</p>
-]]></summary>
-        <content type="html"><![CDATA[<p><em>fake it till we make it.</em> ​​​</p>
-<!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://colin.studio/post-images/1625767629530.jpg" alt="Maybe We Could" loading="lazy"></figure>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[摘抄｜何伟《Morsi the Cat》]]></title>
         <id>https://colin.studio/post/zhai-chao-orhe-wei-lesslessmorsi-the-catgreatergreater/</id>
@@ -41,6 +28,19 @@
 <p>但古埃及人从未按照我们的定义来书写历史。事件（kheperut）是不可靠的，因为它们打乱了自然秩序。相反，古埃及人生活在「周期时间（neheh）」当中。Neheh 关乎的是日升日落、季节更替与尼罗河每年的涨落，总是循环往复，更替接续。而 Djet 呢，则是静止恒定的时间。法老驾崩，便进入 djet，进入诸神、寺庙与金字塔中的时间。把尸体做成木乃伊，就是人类对 djet 的体现，艺术也是。在 djet 时间中，有些东西已经完成，但不会过去；永恒地存在于当下。</p>
 </blockquote>
 <p>（何伟，《Morsi the cat》）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maybe We Could]]></title>
+        <id>https://colin.studio/post/maybe-we-could/</id>
+        <link href="https://colin.studio/post/maybe-we-could/">
+        </link>
+        <updated>2021-07-07T18:06:42.000Z</updated>
+        <summary type="html"><![CDATA[<p><em>fake it till we make it.</em> ​​​</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><em>fake it till we make it.</em> ​​​</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://colin.studio/post-images/1625767629530.jpg" alt="Maybe We Could" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
